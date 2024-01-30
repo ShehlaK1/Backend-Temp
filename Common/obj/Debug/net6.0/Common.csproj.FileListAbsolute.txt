@@ -1,0 +1,12 @@
+D:\DotnetPrac\TestProject\Common\bin\Debug\net6.0\Common.deps.json
+D:\DotnetPrac\TestProject\Common\bin\Debug\net6.0\Common.dll
+D:\DotnetPrac\TestProject\Common\bin\Debug\net6.0\Common.pdb
+D:\DotnetPrac\TestProject\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetPrac\TestProject\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\DotnetPrac\TestProject\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\DotnetPrac\TestProject\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\DotnetPrac\TestProject\Common\obj\Debug\net6.0\Common.sourcelink.json
+D:\DotnetPrac\TestProject\Common\obj\Debug\net6.0\Common.dll
+D:\DotnetPrac\TestProject\Common\obj\Debug\net6.0\refint\Common.dll
+D:\DotnetPrac\TestProject\Common\obj\Debug\net6.0\Common.pdb
+D:\DotnetPrac\TestProject\Common\obj\Debug\net6.0\ref\Common.dll
